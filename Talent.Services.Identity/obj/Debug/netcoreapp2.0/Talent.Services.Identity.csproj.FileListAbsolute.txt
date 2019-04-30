@@ -37,3 +37,17 @@ C:\Talent-Competition\Talent\Talent.Services.Identity\obj\Debug\netcoreapp2.0\Ta
 C:\Talent-Competition\Talent\Talent.Services.Identity\obj\Debug\netcoreapp2.0\Talent.Services.Identity.AssemblyInfo.cs
 C:\Talent-Competition\Talent\Talent.Services.Identity\obj\Debug\netcoreapp2.0\Talent.Services.Identity.dll
 C:\Talent-Competition\Talent\Talent.Services.Identity\obj\Debug\netcoreapp2.0\Talent.Services.Identity.pdb
+E:\Talent\Talent.Services.Identity\bin\Debug\netcoreapp2.0\Talent.Services.Identity.deps.json
+E:\Talent\Talent.Services.Identity\bin\Debug\netcoreapp2.0\Talent.Services.Identity.runtimeconfig.json
+E:\Talent\Talent.Services.Identity\bin\Debug\netcoreapp2.0\Talent.Services.Identity.runtimeconfig.dev.json
+E:\Talent\Talent.Services.Identity\bin\Debug\netcoreapp2.0\Talent.Services.Identity.dll
+E:\Talent\Talent.Services.Identity\bin\Debug\netcoreapp2.0\Talent.Services.Identity.pdb
+E:\Talent\Talent.Services.Identity\bin\Debug\netcoreapp2.0\Talent.Common.dll
+E:\Talent\Talent.Services.Identity\bin\Debug\netcoreapp2.0\Talent.Common.pdb
+E:\Talent\Talent.Services.Identity\obj\Debug\netcoreapp2.0\Talent.Services.Identity.csprojAssemblyReference.cache
+E:\Talent\Talent.Services.Identity\obj\Debug\netcoreapp2.0\Talent.Services.Identity.csproj.CoreCompileInputs.cache
+E:\Talent\Talent.Services.Identity\obj\Debug\netcoreapp2.0\Talent.Services.Identity.AssemblyInfoInputs.cache
+E:\Talent\Talent.Services.Identity\obj\Debug\netcoreapp2.0\Talent.Services.Identity.AssemblyInfo.cs
+E:\Talent\Talent.Services.Identity\obj\Debug\netcoreapp2.0\Talent.Services.Identity.csproj.CopyComplete
+E:\Talent\Talent.Services.Identity\obj\Debug\netcoreapp2.0\Talent.Services.Identity.dll
+E:\Talent\Talent.Services.Identity\obj\Debug\netcoreapp2.0\Talent.Services.Identity.pdb
